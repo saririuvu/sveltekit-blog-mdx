@@ -58,5 +58,8 @@
 	"bugs": {
 		"url": "https://github.com/rodneylab/sveltekit-blog-mdx/issues"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"vite-plugin-thumbhash": "^0.1.3"
+	}
 }
